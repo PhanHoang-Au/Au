@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(120, 153, 164);
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  h1 {
+    color: rgb(24, 2, 2);
+    text-align: center;
+  }
+  .icon_mang_xa_hoi{
+    display: flex;
+    justify-content: center;
+    position: relative;
+  }
+  div.button-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  .icon{
+    font-size: 50px;
+    color: white;
+    margin: 40px;
+    cursor: pointer;
+  }
+  .icon:hover{
+    color: white;
+  }
+  .style-image {
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  div{
+    width: 200%px;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
